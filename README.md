@@ -1,2 +1,2 @@
-# Excersise-No.1
+# Exercises 
 Ruby
