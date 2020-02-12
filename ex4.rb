@@ -26,4 +26,5 @@ puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} passengers to carpool today."
 # Prints a string with the interpolated value of the variable 'average_rassengers_per_car'.
 puts "We need to put about #{average_passengers_per_car} in each car."
+#test za komparacija na branch so master
 
