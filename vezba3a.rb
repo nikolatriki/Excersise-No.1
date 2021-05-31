@@ -2,7 +2,7 @@
 puts "I will now count my chickens:"
 # Type of chicken displayed and calculation
 puts "Hens", 25 + 30 / 6
-# Type of chicken displayed and calculation 
+# Type of chicken displayed and calculation
 puts "Roosters", 100 - 25 * 3 % 4
 # A line of text about what is supposed to be counted next
 puts "Now I will count the eggs:"
